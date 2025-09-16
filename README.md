@@ -11,6 +11,8 @@ My linux rice little bit of a guide on how to set it up for your own (your milea
 - [ ] htop
 - [ ] fastfetch
 - [ ] fonts - jetbrains
+- [ ] [pokemon-colorscript] (https://gitlab.com/phoneybadger/pokemon-colorscripts)
+
 
 ## Copy down this repository
 
